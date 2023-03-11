@@ -1,0 +1,35 @@
+.button-group {
+  gap: 10px;
+}
+
+.modal-body input {
+  border: 1px solid rgb(188, 187, 187);
+  outline: none;
+  height: 40px;
+  border-radius: 5px;
+  padding: 0 10px;
+  width: 60%;
+  margin: 5px;
+}
+
+.result-text {
+  text-shadow: -0.01em -0.01em 0.01em #000;
+	animation: rise 2s ease-in-out 0.5s forwards;
+}
+
+.result-show {
+  gap: 20px;
+}
+
+.form-control {
+  border: none !important;
+}
+
+h3 {
+	font-size: calc(2.8em + 1vw);
+	font-weight: 700;
+	letter-spacing: .01em;
+	padding: 10rem 0 0 4.5rem;
+	text-shadow: .022em .022em .022em #111;
+	color: grey;
+}
